@@ -84,7 +84,7 @@ export default {
   position: relative;
   display: inline-block;
   padding: 4px 16px;
-  font-size: 16px;
+  font-size: 25px;
   color: #fff;
   background-color: #03a9f4;
   font-family: "Overlock", cursive;
@@ -104,12 +104,12 @@ export default {
   border-color: #03a9f4 transparent;
 }
 h1 {
-  font-size: 34px;
+  font-size: 40px;
   font-family: "Overlock", cursive;
 }
 h6 {
   margin-top: 6px;
-  font-size: 14px;
+  font-size: 20px;
   font-family: "Overlock", cursive;
   color: #c7c7c7;
   letter-spacing: 4px;
@@ -119,8 +119,9 @@ h6 {
   border-top: 1px solid #fff;
 }
 .info ul li {
-  font-size: 20px;
-  margin-top: 26px;
+  font-size: 25px;
+  margin-top: 30px;
+  font-family: "Overlock", cursive;
 }
 .info b {
   display: inline-block;
@@ -130,7 +131,6 @@ h6 {
 .info ul li span:hover {
   color: #03a9f4;
   font-family: "Overlock", cursive;
-  font-size: 170px;
 }
 #particles-js {
   position: absolute;
@@ -139,9 +139,5 @@ h6 {
   width: 100%;
   height: 100%;
   z-index: 1;
-}
-
-.aa{
-	text-align: right;
 }
 </style>
