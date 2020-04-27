@@ -11,16 +11,16 @@
         >
           <!-- slides -->
           <swiper-slide>
-            <p>您在找前端工程师？？</p>
+            <p>本人性格开朗，待人友善，为人真诚，工作细致，认真负责。抗压能力、学习能力强。</p>
           </swiper-slide>
           <swiper-slide>
-            <p>您真的来对了！！</p>
+            <p>熟悉区块链的各种共识算法（POW、POS、DPOS、PBFT等）。</p>
           </swiper-slide>
           <swiper-slide>
-            <p>我就是一名热爱前端开发，为前端痴狂的coder。</p>
+            <p>可以手动配置并启动部署Hyperledger Fabric网络，编写智能合约、node sdk交互等。</p>
           </swiper-slide>
           <swiper-slide>
-            <p>I Am The One!!</p>
+            <p>了解Hadoop中分布式存储HDFS细节及过程，以及MapReduce计算框架过程。</p>
           </swiper-slide>
           <div
             class="swiper-pagination"

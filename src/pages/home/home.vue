@@ -21,7 +21,7 @@
   		</vue-particles>
   	</top>
   	<about/>
-  	<experience/>
+  	<educationalexperience/>
   	<skill/>
   	<project/>
   	<bottom/>
@@ -32,7 +32,7 @@
 import top from '@/components/top'
 import bottom from '@/components/bottom'
 import about from '@/components/about'
-import experience from '@/components/experience'
+import educationalexperience from '@/components/educationalExperience'
 import skill from '@/components/skill'
 import project from '@/components/project'
 export default {
@@ -45,7 +45,7 @@ export default {
   	top,
   	bottom,
   	about,
-  	experience,
+  	educationalexperience,
   	skill,
   	project
   }

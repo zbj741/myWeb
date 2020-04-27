@@ -15,8 +15,8 @@
             <li class="text_hidden"><b>出生年月</b> <span>{{info.birth}}</span></li>
             <li class="text_hidden"><b>电子邮箱</b> <span>{{info.email}}</span></li>
             <li class="text_hidden"><b>手机号码</b> <span>{{info.phone}}</span></li>
-            <li class="text_hidden"><b>本科学校</b> <span>{{info.undergraduate}}</span></li>
-            <li class="text_hidden"><b>研究生学校</b> <span>{{info.postgraduate}}</span></li>
+            <li class="text_hidden"><b>本科院校</b> <span>{{info.undergraduate}}</span></li>
+            <li class="text_hidden"><b>研究生院校</b> <span>{{info.postgraduate}}</span></li>
           </ul>
         </div>
         <div class="clearfix"></div>
@@ -130,6 +130,7 @@ h6 {
 .info ul li span:hover {
   color: #03a9f4;
   font-family: "Overlock", cursive;
+  font-size: 170px;
 }
 #particles-js {
   position: absolute;
